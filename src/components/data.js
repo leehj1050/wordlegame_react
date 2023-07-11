@@ -1,0 +1,31 @@
+export const blockItem = [
+  ["", "", "", ""],
+  ["", "", "", ""],
+  ["", "", "", ""],
+  ["", "", "", ""],
+  ["", "", "", ""],
+];
+
+export const wordData = [
+  "stay",
+  "word",
+  "star",
+  "moon",
+  "stop",
+  "sour",
+  "sing",
+  "song",
+  "game",
+  "june",
+  "time",
+  "teen",
+  "test",
+  "sale",
+  "blue",
+  "only",
+  "king",
+  "line",
+  "west",
+  "east",
+  "goal",
+];
